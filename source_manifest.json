@@ -1,0 +1,20 @@
+{
+  "source": "MTT105_Convergence_Corrected",
+  "dataset_doi": "10.13012/B2IDB-8188066_V1",
+  "inputs": {
+    "results/data/pristine_final.npz": "61bd9f7793b44045d5205b884aa589ed36a3e24fc75dde16969fbecfb9f210ce",
+    "results/data/pristine_metrics.json": "22f14f4e8532d80127e14aa2f12fd95871b5ab6f4f3681768600c153e04b1a3b",
+    "results/data/discharged_final.npz": "27298d494441799e6cfd0fa567c7d90d995b35d7f9b8e6d940f21d816badf728",
+    "results/data/discharged_metrics.json": "fa69ec86ee1e9acb9a0e9fb48de7e4dbc8221385a5ac409aa4a264697dd063a2",
+    "results/data/charged_final.npz": "31a125ceb2f92e37083e79f29f2e044624c1f384c4547f0794ad06434736aca9",
+    "results/data/charged_metrics.json": "4ded11f37c915c1b5724f8b41c7a07255e33c65c64c1b1a7d9966761e3ded41b"
+  },
+  "authoritative_inputs": {
+    "results/data/pristine_final.npz": "7ef5a0523a2e9c5464bb9c8eb0cf1eae8996413d3a0f6b1f999dbf47a9ecf231",
+    "results/data/pristine_metrics.json": "5ffbd69b466b81830317c494578e88f8a04e3219fe302a0f887fee8a4e0bfd89",
+    "results/data/discharged_final.npz": "69406628d90df7613232bdaf105cd01ceee5f3ad5e01af6b8aa2a7568b856fe5",
+    "results/data/discharged_metrics.json": "1edf998703788ca7258b7e065309a540ff5f1ad2ad221d349dac422b8608d0ca",
+    "results/data/charged_final.npz": "6ebe62901b35864313cebb7d56ca6e733ae99df0c60f612268c288376f029571",
+    "results/data/charged_metrics.json": "39571e7e92ce37ca3c89fe2b49e5884d35b6609570c8f0bc6e6f6587904128e2"
+  }
+}

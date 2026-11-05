@@ -1,0 +1,28 @@
+<style>
+.block-container {padding-top:2rem;padding-bottom:1.5rem;max-width:1550px;}
+h1 {font-size:clamp(1.8rem,2.5vw,2.65rem)!important;letter-spacing:-.035em;line-height:1.15!important;padding-top:.35rem!important;padding-bottom:.55rem!important;font-weight:700!important;}
+h2 {font-size:1.65rem!important;letter-spacing:-.025em;padding-top:.2rem!important;padding-bottom:.35rem!important;}
+.eyebrow,.section-kicker,.brand-kicker {font-size:.69rem;letter-spacing:.16em;font-weight:700;color:#007f8b;}
+.hero-subtitle {font-size:1rem;color:#607481;margin-bottom:1.05rem;}
+.status-strip {display:flex;flex-wrap:wrap;gap:.5rem 1.8rem;padding:.7rem 0;border-top:1px solid #dae4e9;border-bottom:1px solid #dae4e9;color:#526b78;font-size:.76rem;margin-bottom:1.4rem;}
+.status-strip span:first-child {color:#007f8b;font-weight:600;}
+.section-description {font-size:.92rem;color:#607481;max-width:970px;margin-bottom:1rem;line-height:1.55;}
+.brand-title {font-size:1.65rem;font-weight:700;letter-spacing:-.025em;color:#e8f3f5;margin:.35rem 0;}
+.brand-kicker {color:#75d8d3;}
+.brand-subtitle {font-size:.79rem;color:#b2cbd5;}
+.sidebar-note {font-size:.71rem;line-height:1.8;color:#b2cbd5;padding-top:.6rem;letter-spacing:.025em;}
+[data-testid="stSidebar"] {min-width:265px;max-width:290px;}
+[data-testid="stSidebar"] hr {border-color:#34515d;}
+[data-testid="stMetric"] {background:#fff;border:1px solid #e0e8ec;border-radius:10px;padding:.7rem 1rem;}
+[data-testid="stMetricValue"] {font-size:1.65rem!important;color:#18394e;}
+[data-testid="stMetricLabel"] {font-size:.77rem!important;color:#607481;}
+[data-testid="stCaptionContainer"] {color:#637986;line-height:1.5;}
+[data-testid="stSidebar"] [data-testid="stCaptionContainer"], [data-testid="stSidebar"] [data-testid="stCaptionContainer"] p {color:#b2cbd5;}
+[data-testid="stAlert"] {border-radius:8px;}
+.window-row,.map-legend {display:flex;flex-wrap:wrap;gap:.65rem 1.2rem;font-size:.78rem;margin-bottom:.7rem;}
+.window-row span {padding:.25rem .6rem;border-radius:5px;}
+.window-fit {background:#e0eee7;color:#325f4c;}.window-check {background:#fbf1d8;color:#7d6221;}.window-edge {background:#e1f0f2;color:#00717e;}
+.map-legend i {display:inline-block;width:11px;height:11px;margin-right:5px;vertical-align:middle;border:1px solid #bbcbd2;}
+.page-footer {border-top:1px solid #dae4e9;color:#7b909c;font-size:.69rem;letter-spacing:.045em;margin-top:1.4rem;padding-top:.8rem;}
+@media (max-width:900px) {.block-container {padding-top:1rem;} h1 {font-size:1.8rem!important;}}
+</style>
